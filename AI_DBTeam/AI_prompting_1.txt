@@ -1,0 +1,28 @@
+---
+
+I want to createa a .... , and I would like you to guide me step by step by asking spevific alternative questions to define 
+the objectives, target audience, topics, and content structure . At the end, organize everything into a structured document with 
+an introduction section, topics, practical exercises , and conclusion. Ask one alternative questions at a time and briefly explain 
+why each piece of informaton is important. 
+
+
+Class - Cloud code 
+
+https://app.datacamp.com/learn/courses/claude-code-101
+
+After that, you can open up the command palette 
+with Ctrl or Command and Shift and P and search Claude Code.
+Open in new tab. You can also click on the
+
+Ctrl/Cmd + Shift + P ( Open Claud code) 
+
+Shift + Tab to cycle between modes.  ( Swithch between Approval mode- Claude asks permission each time it wants to edit a file or run a command.)
+                                     ( Auto-accept mode - File edits are automatically approved, but commands still require your permission.) 
+									 
+									  Plan Mode. -  Plan mode takes your prompt and uses read-only tools to analyze your codebase and research 
+									             your suggested implementation. It will ask clarifying questions along the way, then return a detailed plan it can execute.
+
+=================================
+Explore, Plan, Code, and Commit.
+================================
+
