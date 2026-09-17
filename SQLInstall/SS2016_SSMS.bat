@@ -1,0 +1,1 @@
+"\\corp\dfs\TV\SQLSupport\SQL Installs\SQL Server 2016\SQL Management Studio Install\SSMS-Setup-ENU.exe" /install /passive /norestart

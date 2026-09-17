@@ -1,0 +1,1 @@
+"\\corp\dfs\TV\SQLSupport\SQL Installs\SQL Server 2019\SQL Server 2019 Enterprise - Server\setup.exe" /QS /IAcceptSQLServerLicenseTerms=1 /ACTION="Install" /ConfigurationFile=C:\Users\***\Desktop\SS2016_Default_Install_Config.ini
